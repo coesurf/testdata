@@ -10,16 +10,16 @@
     }
   ],
   "pie": [
-     {
-        "count": "18",
-        "color": "green",
-     },
-     {
-        "count": "5",
-        "color": "red",
-     }
+    {
+      "count": "18",
+      "color": "green",
+    },
+    {
+      "count": "5",
+      "color": "red",
+    }
   ],
   "version": {
-    "name" : "1.0"
+      "name" : "1.0"
   }
 }
