@@ -4,10 +4,19 @@
       "title": "Image A",
       "imageUrl": "https://preview.amp.dev/static/inline-examples/images/flowers.jpg"
     },
-
     {
       "title": "Image B",
       "imageUrl": "https://preview.amp.dev/static/inline-examples/images/sunset.jpg"
     }
+  ],
+  "pie": [
+     {
+        "count": "18",
+        "color": "green",
+     },
+     {
+        "count": "5",
+        "color": "red",
+     }
   ]
 }
