@@ -18,5 +18,8 @@
         "count": "5",
         "color": "red",
      }
-  ]
+  ],
+  "version": {
+    "name" : "1.0"
+  }
 }
