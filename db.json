@@ -1,31 +1,25 @@
 {
-  "posts": [
+  "items": [
+    {
+      "title": "Image 1",
+      "imageUrl": "https://preview.amp.dev/static/inline-examples/images/flowers.jpg"
+    },
+    {
+      "title": "Image 2",
+      "imageUrl": ""https://preview.amp.dev/static/inline-examples/images/sunset.jpg"
+    }
+  ],
+  "pie": [
     {
       "id": 1,
-      "title": "Post 1"
+      "count": 18
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "count": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "version": {
+    "name": "1.0.0"
   }
 }
