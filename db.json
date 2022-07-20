@@ -1,14 +1,16 @@
 {
-  "items": [
-    {
-      "title": "Image 1",
-      "imageUrl": "https://preview.amp.dev/static/inline-examples/images/flowers.jpg"
-    },
-    {
-      "title": "Image 2",
-      "imageUrl": "https://preview.amp.dev/static/inline-examples/images/sunset.jpg"
-    }
-  ],
+  "itemlist": {
+    "items": [
+     {
+       "title": "Image 1",
+       "imageUrl": "https://preview.amp.dev/static/inline-examples/images/flowers.jpg"
+     },
+     {
+       "title": "Image 2",
+       "imageUrl": "https://preview.amp.dev/static/inline-examples/images/sunset.jpg"
+     }
+    ]
+  },
   "pie": [
     {
       "id": 1,
