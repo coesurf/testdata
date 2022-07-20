@@ -11,16 +11,18 @@
      }
     ]
   },
-  "pie": [
-    {
-      "id": 1,
-      "count": 18
-    },
-    {
-      "id": 2,
-      "count": 5
-    }
-  ],
+  "piechart": {
+    "slices": [
+      {
+        "id": 1,
+        "count": 18
+      },
+      {
+        "id": 2,
+        "count": 5
+      }
+    ],
+  },
   "version": {
     "name": "1.0.0"
   }
