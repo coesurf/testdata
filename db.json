@@ -12,7 +12,7 @@
     ]
   },
   "piechart": {
-    "slices": [
+    "items": [
       {
         "id": 1,
         "count1": 15,
