@@ -15,11 +15,8 @@
     "slices": [
       {
         "id": 1,
-        "count": 18
-      },
-      {
-        "id": 2,
-        "count": 5
+        "count1": 15,
+        "count2": 5
       }
     ],
   },
